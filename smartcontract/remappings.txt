@@ -1,0 +1,5 @@
+forge-std/=lib/forge-std/src/
+@openzeppelin/=node_modules/@openzeppelin/contracts
+@chainlink/=node_modules/@chainlink/contracts/src
+@uniswap/interfaces/=node_modules/@uniswap/v2-core/contracts
+@uniswap/contracts/interfaces/=node_modules/@uniswap/v2-periphery
